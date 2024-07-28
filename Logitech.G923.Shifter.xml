@@ -17,13 +17,13 @@
 			<InputInfoPrimary deviceInputType="Joystick" inputName="axis:x: +" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarToggleHandBrake">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:9" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:12" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarToggleEngine">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:7" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:24" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSetGearBoxNeutral">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="button:0" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_0" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSetGearBoxShift1">
 			<InputInfoPrimary deviceInputType="Joystick" inputName="button:13" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
@@ -47,10 +47,10 @@
 			<InputInfoPrimary deviceInputType="Joystick" inputName="button:19" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSetNextShift">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:4" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:7" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSetPrevShift">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:1" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:8" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarCycleReductorGear">
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="X" device="" modifier="[None]" />
@@ -62,10 +62,10 @@
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="N" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSwitchHWDandNearLight">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:8" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:20" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarSetFarLight2">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="K" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:21" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarToggleAlarm">
 			<InputInfoPrimary deviceInputType="Joystick" inputName="button:2" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
@@ -77,7 +77,7 @@
 			<InputInfoPrimary deviceInputType="Joystick" inputName="button:5" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarPlayHorn">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="button:11" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:9" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarToggleSafetyBelt">
 			<InputInfoPrimary deviceInputType="Joystick" inputName="button:10" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
@@ -98,7 +98,7 @@
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="O" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="LargeGPSSwitching">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="M" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:1" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="ToggleMirrorGUI">
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="J" device="" modifier="[None]" />
@@ -112,27 +112,27 @@
 		<Binding gameAction="MoveDownPhone">
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_Plus" device="" modifier="[None]" />
 		</Binding>
-		<Binding gameAction="MoveHeadInSaloonForward">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_8" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonBackward">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_2" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonRightSide">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_6" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonLeftSide">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_4" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonDown">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_9" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonUp">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_7" device="" modifier="[None]" />
-		</Binding>
-		<Binding gameAction="MoveHeadInSaloonDefault">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_5" device="" modifier="[None]" />
-		</Binding>
+        <Binding gameAction="MoveHeadInSaloonForward">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_8" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonBackward">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_2" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonRightSide">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_6" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonLeftSide">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_4" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonDown">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_9" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonUp">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_7" device="" modifier="[None]" />
+        </Binding>
+        <Binding gameAction="MoveHeadInSaloonDefault">
+            <InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_5" device="" modifier="[None]" />
+        </Binding>
 		<Binding gameAction="LookAtLeftGroup0">
 			<InputInfoPrimary deviceInputType="Joystick" inputName="pov0:left" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
@@ -143,10 +143,10 @@
 			<InputInfoPrimary deviceInputType="Joystick" inputName="pov0:down" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="SwitchCamerasGroup0">
-			<InputInfoPrimary deviceInputType="Joystick" inputName="pov0:up" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:23" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="SwitchCamerasGroup0Reverse">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="V" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:22" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="CameraFreeLookZoomIn">
 			<InputInfoPrimary deviceInputType="Mouse" inputName="Mouse Scroll Up" device="" modifier="[None]" />
@@ -188,7 +188,7 @@
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="[F12]" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="CenterHMD">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="Numpad_Multiply" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:25" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarRadioSwitch">
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="\" device="" modifier="[None]" />
@@ -197,10 +197,10 @@
 			<InputInfoPrimary deviceInputType="Keyboard" inputName="[" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="PlayerCarRadioNext">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="]" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="pov0:up" device="" modifier="[None]" />
 		</Binding>
 		<Binding gameAction="MultifunctionalAccept">
-			<InputInfoPrimary deviceInputType="Keyboard" inputName="[ENTER]" device="" modifier="[None]" />
+			<InputInfoPrimary deviceInputType="Joystick" inputName="button:11" device="Logitech G923 Driving Force Racing Wheel USB" modifier="[None]" />
 		</Binding>
 	</Bindings>
 	<Parameters>
